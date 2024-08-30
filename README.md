@@ -1,51 +1,22 @@
-<div align="center">
-  <img height="150"
-    src= 
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="left">My name is Alan and I'm a student, from São Paulo/Brazil</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Software Engineering<br><br>🎲 Fun fact: I like to hang out and play games!</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
-<p align="left">I'm Alan from São Paulo/Brazil <br><br>- 🔭 I’m studying at FIAP - Paulista <br>- 📚 I'm currently learning Software Engeneering<br>- ⚡ In my free time I like to play games, and go to the gym</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img  />
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-</div>
 
 ###
