@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Software Engineering<br><br>🎲 Fun fact: I like to hang out and play games!</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Software Engineering<br><br>🎲 Fun fact: I like tecnology and always used a computer!</p>
 
 ###
 
